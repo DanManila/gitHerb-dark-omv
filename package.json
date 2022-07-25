@@ -1,0 +1,32 @@
+{
+    "name": "githerb-dark-omv",
+    "displayName": "GitHerb Dark OMV",
+    "description": "Color theme based on GitHub Dark Default",
+    "version": "0.0.1",
+	"icon": "./images/githubprofilepic128x128.png",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "githerb",
+        "Git Herb",
+        "GitHerb Codesource",
+        "Old Man Variant",
+        "GitHerb Dark OMV theme",
+        "OMCoderDanLamey"
+    ],
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GitHerb Dark OMV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GitHerb Dark OMV-color-theme.json"
+            }
+        ]
+    }
+}
