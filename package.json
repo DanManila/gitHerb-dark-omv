@@ -2,8 +2,8 @@
     "name": "githerb-dark-omv",
     "displayName": "GitHerb Dark OMV",
     "description": "Color theme based on GitHub Dark Default",
-    "version": "0.0.1",
-	"icon": "./images/githubprofilepic128x128.png",
+    "version": "0.1.0",
+    "icon": "./images/githubprofilepic128x128.png",
     "keywords": [
         "theme",
         "dark theme",
