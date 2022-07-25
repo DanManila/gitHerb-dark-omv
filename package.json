@@ -3,6 +3,7 @@
     "displayName": "GitHerb Dark OMV",
     "description": "Color theme based on GitHub Dark Default",
     "version": "0.3.0",
+    "publisher": "GitherbCodesource",
     "icon": "images/githubprofilepic128x128.png",
     "repository": {
         "type": "git",
