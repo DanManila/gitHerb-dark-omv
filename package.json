@@ -2,7 +2,7 @@
     "name": "githerb-dark-omv",
     "displayName": "GitHerb Dark OMV",
     "description": "Color theme based on GitHub Dark Default",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "icon": "./images/githubprofilepic128x128.png",
     "repository": {
         "type": "git",
