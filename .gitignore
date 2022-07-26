@@ -1,2 +1,4 @@
 node_modules
 *.vsix
+vscode_themes_info/*
+vscode_themes_info
